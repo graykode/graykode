@@ -12,7 +12,7 @@ Give me any domain, and I'll climb the learning curve to become top-tier in that
 
 **Industry Experience**
 
-- **DSRV** — Jul 2026–Present
+- **DSRV** — AI & Web3 Engineer · Jul 2026–Present
 - **Clober** — Founding Engineer · Apr 2022–Jul 2026
 - **Upstage AI** — AI Research Engineer · Jul 2021–Apr 2022
 - **Brunel AI** — AI Engineer · Sep 2020–Jun 2021
