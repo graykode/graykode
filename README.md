@@ -1,3 +1,9 @@
+<div align="center">
+
+![GitHub Contributions](https://github-readme-stats-fast.vercel.app/api?username=graykode&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+</div>
+
 # Tae Hwan Jung
 
 AI Engineer · Founding Engineer @ Clober
@@ -35,9 +41,3 @@ Give me any domain, and I'll climb the learning curve to become top-tier in that
 **Education**
 
 - **Kyung Hee University** — B.S. in Computer Engineering · 2015–2022
-
-<div align="center">
-
-![GitHub Contributions](https://github-readme-stats-fast.vercel.app/api?username=graykode&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-</div>
