@@ -15,7 +15,7 @@ Give me any domain, and I'll climb the learning curve to become top-tier in that
 - **DSRV** — Jul 2026–Present
 - **Clober** — Founding Engineer · Apr 2022–Jul 2026
 - **Upstage AI** — AI Research Engineer · Jul 2021–Apr 2022
-- **Brunel AI** — Contract AI Engineer · Sep 2020–Jun 2021
+- **Brunel AI** — AI Engineer · Sep 2020–Jun 2021
 - **NAVER Clova AI** — Research Intern · Dec 2019–Jun 2020
 - **Platfarm** — AI Engineer Intern · Dec 2018–Feb 2019
 
