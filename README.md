@@ -10,6 +10,8 @@ Give me any domain, and I'll climb the learning curve to become top-tier in that
 
 **Blockchain Skills** — Financial modeling & DeFi protocol design · Solidity & gas optimization · Web3 full-stack · On-chain data indexing · Data-driven market making & arbitrage · TypeScript / Rust
 
+**Development Tools** — Git · Version Control · Terminal
+
 **Industry Experience**
 
 - **DSRV** — AI & Web3 Engineer · Jul 2026–Present
