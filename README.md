@@ -6,11 +6,22 @@ Give me any domain, and I'll climb the learning curve to become top-tier in that
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=sP-CozUAAAAJ&hl=en)
 
-**AI Skills** — LLM distributed pre-training · Knowledge distillation & compression · Programming NLP · Document AI (LayoutLM, OCR) · PyTorch / Python
+**AI Skills**
 
-**Blockchain Skills** — Financial modeling & DeFi protocol design · Solidity & gas optimization · Web3 full-stack · On-chain data indexing · Data-driven market making & arbitrage · TypeScript / Rust
+- LLM distributed pre-training
+- Knowledge distillation & compression
+- Programming NLP
+- Document AI (LayoutLM, OCR)
+- PyTorch / Python
 
-**Development Tools** — Git · Version Control · Terminal
+**Blockchain Skills**
+
+- Financial modeling & DeFi protocol design
+- Solidity & gas optimization
+- Web3 full-stack
+- On-chain data indexing
+- Data-driven market making & arbitrage
+- TypeScript / Rust
 
 **Industry Experience**
 
