@@ -6,7 +6,7 @@
 
 # Tae Hwan Jung
 
-AI Engineer · Founding Engineer @ Clober
+AI · Web3 Engineer
 
 Give me any domain, and I'll climb the learning curve to become top-tier in that field.
 
